@@ -47,3 +47,61 @@ margin-left: 120px;
     border-radius: 5px;
     
 }
+.badge{
+
+}
+#banner{
+    background-image: url(./assets/hero-bg.png);
+
+height: 674px;
+
+max-width: 1600px;
+padding-left: 120px;
+padding-top: 70px;
+padding-right: 120px;
+padding-bottom: 134px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+.badge{
+    font-size: 16;
+    color: #469165;
+    border: 1px solid;
+    border-radius: 2px;
+    
+}
+.heading-1{
+    color: #FFFFFF;
+
+}
+.heading-2{
+    color: #30B868;
+}
+.btn-2{
+    width: 251px;
+    height: 52px;
+   background-color: #469165;
+   
+}
+.btn-3{
+    height: 52px;
+    width: 198px;
+    font-size: 16px;
+    color: FFFFFF;
+    
+    
+
+}
+.parent-buton{
+    display: flex;
+    gap: 16px;
+    margin-top: 32px;
+}
+.nav-link :hover
+{
+    background-color: aqua;
+}
