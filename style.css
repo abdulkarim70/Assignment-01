@@ -1,0 +1,49 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+    .header{
+        height: 92px;
+        max-width: 1600px;
+        background-color: #FFFFFF
+        padding: 120,16;
+        
+
+        
+    }
+.header-icon{
+    margin-top: 21px;
+width: 71px;
+height: 36px;
+margin-left: 120px;
+}
+.nav-menu{
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    max-width: 1600px;
+   
+    
+}
+.nav-link{
+    display: flex;
+    list-style: none;
+    gap: 32px;
+    font-size: 16;
+    color: #000000;
+}
+
+.nav-link a{
+    text-decoration: none;
+    
+}
+.btn{
+    height: 44px;
+    width: 164px;
+    background-color: #469165;
+    border-radius: 5px;
+    
+}
